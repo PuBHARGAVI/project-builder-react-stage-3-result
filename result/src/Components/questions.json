@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Which is the only mammal that can’t jump?",
+        "optionA": "Dog",
+        "optionB": "Elephant",
+        "optionC": "Goat",
+        "optionD": "Lion",
+        "answer": "Elephant"
+    },
+    {
+        "question": "The tallest living animal is the?",
+        "optionA": "Dog",
+        "optionB": "Elephant",
+        "optionC": "Giraffe",
+        "optionD": "Lion",
+        "answer": "Giraffe"
+    },
+    {
+        "question":"Which is the smallest country in the world?",
+        "optionA": "Vanuatu",
+        "optionB": "Vatican City",
+        "optionC": "Luxembourg",
+        "optionD": "D.Monaco",
+        "answer": "Vatican City"
+    },
+    {
+        "question": "How many Number of planets are there in our solar system?",
+        "optionA": 9,
+        "optionB": 10,
+        "optionC": 11,
+        "optionD": 12,
+        "answer": 9
+    },
+    {
+        "question": "Where is Dal lake?",
+        "optionA": "Rajasthan",
+        "optionB": "Himachal Pradesh",
+        "optionC": "Jammu & Kashmir",
+        "optionD": "Odisha",
+        "answer": "Jammu & Kashmir"
+    },
+    {
+        "question":"Which of the following is the largest fresh water lake of India?",
+        "optionA": "Pulicat lake",
+        "optionB": "Chilka lake",
+        "optionC": "Wular",
+        "optionD": "Vembanad",
+        "answer": "Wular"
+    },
+    {
+        "question":"Which of the following river is known as Dakshina Ganga?",
+        "optionA": "Krishna",
+        "optionB": "Godavari",
+        "optionC": "Mahanandi",
+        "optionD": "Cauvery",
+        "answer": "Godavari"
+    },
+    {
+        "question":"Which of the following river is the home for freshwater dolphins?",
+        "optionA": "Brahmaputra",
+        "optionB": "Yamuna",
+        "optionC": "Ganga",
+        "optionD": "Sabarmati",
+        "answer": "Ganga"
+    },
+    {
+        "question": "Which is the largest state in India in terms of area?",
+        "optionA": "Rajasthan",
+        "optionB": "Madhya Pradesh",
+        "optionC": "Maharashtra",
+        "optionD": "Gujarat",
+        "answer": "Rajasthan"
+    },
+    {
+        "question": "Which is the longest river in India?",
+        "optionA": "Nile",
+        "optionB": "Ganga",
+        "optionC": "Hwang Ho",
+        "optionD": "Brahmaputra",
+        "answer": "Brahmaputra"
+    },
+    {
+        "question":"Popular state which is known for its beauty and splendour and also known as 'Devbhoomi'?",
+        "optionA": "Nagaland",
+        "optionB": "Jammu & Kashmir",
+        "optionC": "LUttarakhand",
+        "optionD": "Himachal Pradesh",
+        "answer": "Himachal Pradesh"
+    },
+    {
+        "question": "On what planet is the tallest volcano in the Solar System?",
+        "optionA": "Mars",
+        "optionB": "Earth",
+        "optionC": "Jupiter",
+        "optionD": "None of these",
+        "answer": "Mars" 
+    },
+    {
+        "question": "Which Indian state is popularly known as \"God's Own Country\"?",
+        "optionA": "Gujarat",
+        "optionB": "Madhya Pradesh",
+        "optionC": "lakshadweep",
+        "optionD": "Kerala",
+        "answer": "Kerala"
+    },
+    {
+        "question":"Which among the following does not belong to seven new wonders of the world?",
+        "optionA": "Taj Mahal of Agra",
+        "optionB": "Pyramid at Chichen Itza",
+        "optionC": "Ruins of Petra",
+        "optionD": "The Eiffel Tower in Paris",
+        "answer": "The Eiffel Tower in Paris"
+    },
+    {
+        "question":"Which is called the first wonder of the world?",
+        "optionA": "The Pyramids of Egypt",
+        "optionB": "The Hanging Gardens of Babylon",
+        "optionC": "The Tomb of Mausolus",
+        "optionD": "The Colossus of Rhodes",
+        "answer": "The Pyramids of Egypt"
+    }
+]
