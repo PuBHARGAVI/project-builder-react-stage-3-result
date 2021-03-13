@@ -25,11 +25,11 @@
     },
     {
         "question": "How many Number of planets are there in our solar system?",
-        "optionA": 9,
-        "optionB": 10,
-        "optionC": 11,
-        "optionD": 12,
-        "answer": 9
+        "optionA": "9",
+        "optionB": "10",
+        "optionC": "11",
+        "optionD": "12",
+        "answer": "9"
     },
     {
         "question": "Where is Dal lake?",

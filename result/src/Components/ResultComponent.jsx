@@ -14,7 +14,7 @@ class ResultComponent extends React.Component {
   componentDidMount() {
     this.setState({
       correctQuestionsCount: service.questionCount,
-      wrongQuestionsCount: 15 - service.questionCount,
+      wrongQuestionsCount: 11 - service.questionCount,
       score: service.sharedData,
     });
   }
@@ -29,11 +29,11 @@ class ResultComponent extends React.Component {
           </h1>
           <div className="alignelements">
             <text>Total Number of questions:</text>
-            <text>15</text>
+            <text>11</text>
           </div>
           <div className="alignelements">
             <text>Number of attempted questions:</text>
-            <text>15</text>
+            <text>11</text>
           </div>
           <div className="alignelements">
             <text>Number of Correct Answers:</text>

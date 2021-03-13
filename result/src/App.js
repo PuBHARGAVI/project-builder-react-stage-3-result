@@ -4,9 +4,20 @@ import './App.css';
 import HomeComponent from './Components/HomeComponent';
 import QuizComponent from './Components/QuizComponent';
 import ResultComponent from './Components/ResultComponent';
-
+import axios from 'axios';
+import service from "./Components/service.js";
 function App() {
-
+  axios
+  .get(
+    "https://my-json-server.typicode.com/Naveen132895/quiz-api/questions"
+  )
+  .then((response) => {
+    var urldata = [];
+    for (var i = 0; i < response.data.length; i++) {
+      urldata.push(response.data[i]);
+    }
+    service.apidata=urldata;
+  });
   return (
     <div className="App">
      <Router>

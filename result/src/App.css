@@ -138,17 +138,31 @@ background-color: skyblue;
   align-self: flex-end;
 }
 #positive-animation {
-  width: 90px;
-  height: 50px;
+  width: 150px;
+  height: 30px;
   background: green;
   position: relative;
   animation-name: positiveanimation;
-  animation-duration: 2s;
+  animation-duration: 1s;
 }
 
 @keyframes positiveanimation {
-  from {top: 25px;}
-  to {top: 0px;}
+  from {top:25px;opacity: 1 }
+  to {top:0px; opacity: 0 }
+}
+#negative-animation {
+  width: 150px;
+  height: 30px;
+  background: red;
+  position: relative;
+  animation-name: negativeanimation;
+  animation-duration:1s;
+}
+
+@keyframes negativeanimation {
+
+  from {top:25px;opacity: 1 }
+  to {top:0px; opacity: 0 }
 }
 .alignelements{
   display: flex;
